@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.14-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange.svg)](https://scikit-learn.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-red.svg)](https://streamlit.io/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=kvsruchitha-commits/sms-spam-detection-ml&branch=main&mainModule=app.py)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An end-to-end Natural Language Processing (NLP) and Machine Learning system that accurately classifies incoming SMS messages as **SPAM** or **NOT SPAM (HAM)** in real time, accompanied by confidence probability scores and an interactive web interface.
@@ -178,8 +179,8 @@ SPAM DECTION PROJECT/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/spam-message-detection.git
-cd spam-message-detection
+git clone https://github.com/kvsruchitha-commits/sms-spam-detection-ml.git
+cd sms-spam-detection-ml
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -240,7 +241,7 @@ Open your browser at `http://localhost:8501`.
 ---
 
 ## 👨‍💻 Author & Acknowledgements
-- **Author:** Machine Learning Student
-- **Mentor:** Senior Machine Learning Engineer & Project Mentor
+- **Author:** [kvsruchitha-commits](https://github.com/kvsruchitha-commits)
+- **Repository:** [sms-spam-detection-ml](https://github.com/kvsruchitha-commits/sms-spam-detection-ml)
 - **Dataset Credits:** UCI Machine Learning Repository (Almeida, T.A., Hidalgo, J.M.G., Yamakami, A.)
 - **License:** MIT License
